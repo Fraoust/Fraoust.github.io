@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-你好，我是Fraoust，20岁，使学生
+你好，我是Fraoust，20岁，是学生。
 
 A data-driven personal website
 ======
